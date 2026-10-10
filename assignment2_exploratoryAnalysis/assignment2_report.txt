@@ -1,0 +1,9 @@
+Questions
+
+1. Why does Luxembourg have a higher average order value than most other countries?
+
+2. What factors contributed to the highest order value of €383,996.76?
+
+3. Are there specific product categories that generate the highest revenue?
+
+4. Do customers using different device types spend different amounts on average?
